@@ -2,5 +2,5 @@
 
 ```bash
 npm install -g serve
-serve selecaoCaixaSeguradora
+serve cards
 ```
